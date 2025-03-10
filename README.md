@@ -58,6 +58,7 @@ This web application predicts customer retention by analyzing customer behavior.
 
 ## Contributors
 Team C06, Shri Vishnu Engineering College for Women (SVECW)
+
 👩‍💻 P. Spandana - 21B01A05D8  
 👩‍💻 V. Chetana Sri - 21B01A05J3  
 👩‍💻 SK. Rizwana - 21B01A05G8  
